@@ -15,7 +15,6 @@
 - Software Engineering
 - ML Engineering
 - Data Analytics
-- Data Scientific
 
 <h2>👀 Stats</h2>
 
