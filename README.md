@@ -7,7 +7,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/fadhelmurphy.svg?style=social&label=Follow)](https://github.com/fadhelmurphy?tab=followers)
 
-an EFJT tech-bro who enjoys punk music/concerts. I like to interact with many people.
+an ENFJ tech-bro who enjoys punk music/concerts. I like to interact with many people.
  
 Check out my personal website: [https://fadhelmurphy.github.io](https://fadhelmurphy.github.io)
 
