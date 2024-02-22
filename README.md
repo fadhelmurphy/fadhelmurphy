@@ -20,6 +20,28 @@ Check out my personal website: [https://fadhelmurphy.github.io](https://fadhelmu
 - ML Engineering
 - Data Analytics
 
+**Machine learning & Data Science (Junior)**: 
+- Exploration Data Analysis (EDA)
+- Hypothesis testing
+- Data preprocessing (handling missing value, duplicate value, handling outliers, encoding features)
+- Cross-validation Model
+- Hyperparameter Tuning Model
+- Evaluation Metrics
+- Tracking above steps and manage stage (staging & production) with MLFlow
+- Build API from model
+
+**Frontend (Expert)**: Nextjs, Reactjs, styled-jsx, styled-components, tailwind, zustand, redux, React-Query, SWR, rtk, native CSS
+
+**Javascript bundler**: webpack 5, rollup, lerna, yarn workspace for monorepo project
+
+**Backend (Junior)**: Flask, Express.js, TypeORM, MySQL and Software design pattern
+
+**Deployment**: Nginx, PM2, Docker Compose, Dockerize Image, Gunicorn, Github Actions, Gitlab-ci
+
+**Server**: I have experienced with AWS EC2 or other VPS provider
+
+**Data Engineering (Junior)**: Airflow, BigQuery, MySQL
+
 <h2>📫 How to reach me:</h2>
 
 <a href="mailto:fadhelijlalfalah@gmail.com">![fadhelijlalfalah@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/fadhelijlalfalah/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
