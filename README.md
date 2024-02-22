@@ -30,6 +30,8 @@ Check out my personal website: [https://fadhelmurphy.github.io](https://fadhelmu
 - Tracking above steps and manage stage (staging & production) with MLFlow
 - Build API from model
 
+Tech Stack : Pandas, Numpy, Matplotlib, Seaborn, Scikit Learn, Tensorflow, MLFlow, Flask
+
 **Frontend (Expert)**: Nextjs, Reactjs, styled-jsx, styled-components, tailwind, zustand, redux, React-Query, SWR, rtk, native CSS
 
 **Javascript bundler**: webpack 5, rollup, lerna, yarn workspace for monorepo project
