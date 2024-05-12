@@ -1,7 +1,5 @@
 
 ![Fadhel Ijlal Banner Image](https://media.licdn.com/dms/image/D5616AQEu0nKmDpJMwg/profile-displaybackgroundimage-shrink_350_1400/0/1708157774700?e=1714003200&v=beta&t=Jny2Et_3nCcw2Hv3xJGY3n5X9mzhC1US8w-kIQvL9Bs)
-<!-- <h2 align='center'>Lakshmanan Meiyappan @ Laxmena</h2>
-<p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
 
 <h2>Hey! 👋</h2>
 
@@ -32,17 +30,17 @@ Check out my personal website: [https://fadhelmurphy.github.io](https://fadhelmu
 
 Tech Stack : Pandas, Numpy, Matplotlib, Seaborn, Scikit Learn, Tensorflow, MLFlow, Flask, Tableau
 
-**Frontend (Expert)**: Nextjs, Reactjs, styled-jsx, styled-components, tailwind, zustand, redux, React-Query, SWR, rtk, native CSS
+**Frontend (Mid-to-Sr)**: Nextjs, Reactjs, styled-jsx, styled-components, tailwind, zustand, redux, React-Query, SWR, rtk, native CSS
 
 **Javascript bundler**: webpack 5, rollup, lerna, yarn workspace for monorepo project
 
-**Backend (Junior)**: Flask, Express.js, TypeORM, MySQL and Software design pattern
+**Backend (Junior)**: FastAPI, Redis, Expressjs, PostgreSQL and Software design pattern
 
 **Monitoring** : Sentry & MLFlow
 
-**Deployment**: Nginx, PM2, Docker Compose, Dockerize Image, Gunicorn, Github Actions, Gitlab-ci
+**Deployment**: Caddy, Nginx, PM2, Docker Compose, Dockerize Image, Github Actions, Gitlab-ci
 
-**Server**: I have experienced with AWS EC2 or other VPS provider
+**Server**: I have experienced with AWS EC2, DigitalOcean or other VPS provider
 
 **Data Engineering (Junior)**: Airflow, BigQuery, MySQL
 
