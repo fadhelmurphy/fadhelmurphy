@@ -1,5 +1,6 @@
 
-![Fadhel Ijlal Banner Image](https://media.licdn.com/dms/image/D5616AQEu0nKmDpJMwg/profile-displaybackgroundimage-shrink_350_1400/0/1708157774700?e=1714003200&v=beta&t=Jny2Et_3nCcw2Hv3xJGY3n5X9mzhC1US8w-kIQvL9Bs)
+<img width="1680" alt="image" src="https://github.com/fadhelmurphy/fadhelmurphy/assets/11537946/1f2577e7-48f7-458c-8d8e-911e2b17c5d8">
+
 
 <h2>Hey! 👋</h2>
 
