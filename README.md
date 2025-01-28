@@ -8,7 +8,7 @@
 
 an ENFJ tech-bro who enjoys punk music/concerts. I like to interact with many people.
  
-Check out my personal website: [https://fadhelmurphy.github.io](https://fadhelmurphy.github.io)
+Check out my website: [https://fadhelmurphy.github.io](https://fadhelmurphy.github.io)
 
 - <i>Currently:</i> Shifting to Data Engineer/ML Engineer/Data Scientist
 - <i>Previously:</i> Frontend Engineer on several companies.
@@ -26,24 +26,24 @@ Check out my personal website: [https://fadhelmurphy.github.io](https://fadhelmu
 - Cross-validation Model
 - Hyperparameter Tuning Model
 - Evaluation Metrics
-- Tracking above steps and manage stage (staging & production) with MLFlow
+- Tracking the above steps and managing stage (staging & production) with MLFlow
 - Build API from model
 
-Tech Stack : Pandas, Numpy, Matplotlib, Seaborn, Scikit Learn, Tensorflow, MLFlow, Flask, Tableau
+Tech Stack: Pandas, Numpy, Matplotlib, Seaborn, Scikit Learn, Tensorflow, MLFlow, Flask, Tableau
 
-**Frontend (Mid-to-Sr)**: Nextjs, Reactjs, styled-jsx, styled-components, tailwind, zustand, redux, React-Query, SWR, rtk, native CSS
+**Frontend (Mid-to-Sr)**: Nextjs, Reactjs, styled-jsx, styled-components, tailwind, Zustand, redux, React-Query, SWR, rtk, native CSS
 
-**Javascript bundler**: webpack 5, rollup, lerna, yarn workspace for monorepo project
+**Javascript bundler**: Webpack 5, Rollup, and Vite
 
-**Backend (Junior)**: FastAPI, Redis, Expressjs, PostgreSQL and Software design pattern
+**Backend (Junior)**: FastAPI, Flask, Redis, Expressjs, PostgreSQL and Software design pattern
 
 **Monitoring** : Sentry & MLFlow
 
-**Deployment**: Caddy, Nginx, PM2, Docker Compose, Dockerize Image, Github Actions, Gitlab-ci
+**Deployment**: Caddy, Nginx, PM2, Docker Compose, Dockerize Image, GitHub Actions, Gitlab-ci, Cloud Build
 
 **Server**: I have experienced with AWS EC2, DigitalOcean or other VPS provider
 
-**Data Engineering (Junior)**: Airflow, BigQuery, MySQL
+**Data Engineering (Junior)**: Airflow, BigQuery, MySQL, Cloud Run, Google Batch
 
 <h2>📫 How to reach me:</h2>
 
