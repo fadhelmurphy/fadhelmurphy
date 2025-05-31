@@ -6,8 +6,11 @@ Software Engineer transitioning into **Data Engineering, Machine Learning, and D
 
 🌍 **Portfolio:** [fadhelmurphy.github.io](https://fadhelmurphy.github.io)  
 
+## Open to work
+- **Role:** Data Engineer, Frontend Engineer, Fullstack Engineer, or Data Scientist
+
 ## Experience  
-- **Current:** Transitioning into Data Engineer / ML Engineer / Data Scientist  
+- **Current:** Data Engineer
 - **Previous:** Frontend Engineer at several companies  
 
 ## Technical Skills  
