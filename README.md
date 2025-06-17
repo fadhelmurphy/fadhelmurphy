@@ -2,7 +2,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/fadhelmurphy.svg?style=social&label=Follow)](https://github.com/fadhelmurphy?tab=followers)  
 
-Software Engineer transitioning into **Data Engineering, Machine Learning, and Data Science**. Passionate about technology, data, and analytical problem-solving.  
 
 🌍 **Portfolio:** [fadhelmurphy.github.io](https://fadhelmurphy.github.io)  
 
