@@ -2,6 +2,40 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/fadhelmurphy.svg?style=social&label=Follow)](https://github.com/fadhelmurphy?tab=followers)  
 
+```typescript
+enum Language {
+  Indonesian = "Bahasa Indonesia",
+  English = "English"
+}
+
+enum Sport {
+  Run = "run",
+  Football = "football"
+}
+
+interface Identity {
+  nickname: string;
+  username: string;
+  company?: string; 
+  language: Language[];
+  country: string;
+  city: string;
+  sports: Sport[];
+}
+
+const myIdentity: Identity = {
+  nickname: "Fadhel Thirteen",
+  username: "fadhelmurphy/fadhelthirteen",
+  language: [Language.Indonesian, Language.English],
+  country: "Indonesia",
+  city: "Tangerang City",
+  sports: [Sport.Run, Sport.Football]
+};
+
+console.log(myIdentity);
+
+
+```
 
 🌍 **Portfolio:** [fadhelmurphy.github.io](https://fadhelmurphy.github.io)  
 
