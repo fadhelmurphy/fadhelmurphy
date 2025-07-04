@@ -2,6 +2,10 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/fadhelmurphy.svg?style=social&label=Follow)](https://github.com/fadhelmurphy?tab=followers)  
 
+<img 
+  align="left" 
+  width="350px" src="https://i.scdn.co/image/ab6761610000e5eb030d67ff9576754ff230b2c0"/>
+
 ```typescript
 enum Language {
   Indonesian = "Bahasa Indonesia",
