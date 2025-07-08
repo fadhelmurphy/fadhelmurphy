@@ -12,11 +12,6 @@ enum Language {
   English = "English"
 }
 
-enum Sport {
-  Run = "run",
-  Football = "football"
-}
-
 interface Identity {
   nickname: string;
   username: string;
@@ -24,7 +19,6 @@ interface Identity {
   language: Language[];
   country: string;
   city: string;
-  sports: Sport[];
 }
 
 const myIdentity: Identity = {
@@ -33,10 +27,9 @@ const myIdentity: Identity = {
   language: [Language.Indonesian, Language.English],
   country: "Indonesia",
   city: "Tangerang City",
-  sports: [Sport.Run, Sport.Football]
 };
 
-console.log(myIdentity);
+console.info(myIdentity);
 
 
 ```
