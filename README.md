@@ -15,6 +15,7 @@ enum Language {
 interface Identity {
   nickname: string;
   username: string;
+  website: string;
   company?: string; 
   language: Language[];
   country: string;
@@ -24,6 +25,7 @@ interface Identity {
 const myIdentity: Identity = {
   nickname: "Fadhel Thirteen",
   username: "fadhelmurphy/fadhelthirteen",
+  website: "fadhelpop.com",
   language: [Language.Indonesian, Language.English],
   country: "Indonesia",
   city: "Tangerang City",
@@ -33,8 +35,6 @@ console.info(myIdentity);
 
 
 ```
-
-🌍 **Portfolio:** [fadhelpop.com](https://fadhelpop.com)  
 
 ## Open to work
 - **Role:** Data Engineer, Frontend Engineer, Fullstack Engineer, or Data Scientist
